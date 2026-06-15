@@ -1,6 +1,0 @@
-{
-  "name": "Michael - O Filme",
-  "description": "Landing page de alta conversão para o filme Michael",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
